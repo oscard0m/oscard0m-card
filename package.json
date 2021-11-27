@@ -40,9 +40,6 @@
   "bugs": {
     "url": "https://github.com/oscard0m/oscard0m-card/issues"
   },
-  "publishConfig": {
-    "registry": "https://npm.registry.github.com/"
-  },
   "release": {
     "branches": [
       "+([0-9]).x",
