@@ -18,7 +18,7 @@ const data = {
   name: chalk.white("               Oscar Dominguez"),
   handle: chalk.white("oscard0m"),
   work: chalk.white("Software Engineer @ ") + chalk.cyan("simplabs"),
-  opensource: chalk.white("Octokit & Octoherd contributor 🤖"),
+  opensource: chalk.white("Octokit, Octoherd & Storybook contributor 🤖"),
   twitter: chalk.gray("https://twitter.com/") + chalk.cyan("_OscarDOM"),
   npm: chalk.gray("https://npmjs.com/") + chalk.red("oscardom"),
   github: chalk.gray("https://github.com/") + chalk.green("oscard0m"),
